@@ -14,49 +14,40 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1744145310
+  lastShownTimestamp: 1746470471
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1744145310
+  checkedLastUpdateTimestamp: 1746470471
   lastQOTDResponse:
-    questionId: 168
-    questionText: 'What are the minimum requirements (array size) to draw a Mesh
-      Quad?
-
-      <p>Mesh mesh = new Mesh();</p>
-
-      <p>mesh.vertices = ???</p>
-
-      <p>mesh.uv
-      = ???</p>
-
-      <p>mesh.triangles = ???</p>'
-    answerA: 4 vertices, 4 uvs, 2 triangles
-    answerB: 4 vertices, 4 uvs, 6 triangles
-    answerC: 6 vertices, 3 uvs, 4 triangles
+    questionId: 177
+    questionText: The Profiler is useful for...
+    answerA: Balancing difficulty
+    answerB: Level Design
+    answerC: Indentifying performance bottlenecks
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1744145310
+  lastQotdTimestamp: 1746470471
   lastDynamicHeaderResponse:
-    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/humbleBundleEnvironmentsApr25.png
-    topText: Gorgeous Realistic and Stylized Environments at 99% OFF!
-    topLink: humblebundle
-    bottomText: Learn Unity DOTS for MASSIVE Performance Boosts! (and make an RTS)
-    bottomLink: dotscourse
-  lastDynamicHeaderTimestamp: 1744145310
+    topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/assetStoreSpringSale25_EndsSoon.png
+    topText: Spring Sale on the Asset Store, browse the Daily FLASH DEALS list to
+      see what will be 70% OFF!
+    topLink: unityassetstore
+    bottomText: My 10+ Years of C# Knowledge in 1 Course!
+    bottomLink: csharpcourse
+  lastDynamicHeaderTimestamp: 1746470471
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1744145310
+  websiteLatestMessageTimestamp: 1746470471
   websiteLatestVideos:
     videos:
-    - youTubeId: zgJHRiounHs
-      title: The Problem of Making more MONEY with Assets than Games
-    - youTubeId: wejUWjCVW94
-      title: The 10 BEST Game Dev Beginner Projects to Make!
-    - youTubeId: 79an2JDe51g
-      title: NO MORE PROGRAMMING, let's do Pen Spinning instead!
-    - youTubeId: BR1HFAj2v-Y
-      title: This GAME made $28 MILLION! Why?
-  websiteLatestVideosTimestamp: 1744145310
+    - youTubeId: bl9pc7xaH9Q
+      title: CHEAT SHEET for BOOSTING your GAMES!
+    - youTubeId: G9TfMVURn2U
+      title: Get FREE Awesome Assets EVERY WEEK! Do you know about this?
+    - youTubeId: IdsXZHcgHSU
+      title: The ONE Asset you MUST HAVE!
+    - youTubeId: YS6Jhj0nqgc
+      title: Do Gamers recognize Asset Packs?
+  websiteLatestVideosTimestamp: 1746470471
